@@ -1,0 +1,23 @@
+.alert-danger {
+    border-radius: 10px;
+    padding-left: 20px;
+    height: 50px;
+    width: 100%;
+    padding-top: 0.76rem;
+}
+
+#testik {
+    background-color: aqua;
+}
+
+.container {
+    max-width: 100rem;
+}
+
+.nav-link {
+    margin-right: 3rem;
+}
+
+#cv,td {
+    max-width: 700px;
+}
